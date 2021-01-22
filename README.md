@@ -1,5 +1,7 @@
-### Hi there 👋
-<h1 align="center"> Matt TAYLOR </h1>
+<h1 align="center"> Matt TAYLOR - 20</h1>
+<hr>
+<h4 align="center"> Comp. Sci Student at F.S.T Limoges - France </h4>
+<h4 align="center"> <a href = https://ledrypotato.github.io> Site </a> <a href =  cv.pdf> CV </a>
 
 <!--
 **ledrypotato/ledrypotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
