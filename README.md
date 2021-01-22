@@ -1,6 +1,6 @@
-<h1 align="center"> Matt TAYLOR - 20 🖥️</h1>
+<h1 align="center"> Matt TAYLOR - 20</h1>
 <hr>
-<h4 align="center"> Comp. Sci Student at F.S.T Limoges - France </h4>
+<h4 align="center"> Comp. Sci Student at F.S.T Limoges - France 🖥️</h4>
 <h4 align="center"> <a href = https://ledrypotato.github.io> Site </a> - <a href =  cv-english.pdf> CV (English) </a> - <a href = cv-french.pdf> CV (French) </a>
 
 <!--
