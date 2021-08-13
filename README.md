@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning *cybersecurity*
 - ⚡ Fun fact: i love calisthenics 💪🏻
 
-  <h3> Socials: </h3>
+### Socials: 
   
   
   <h3> Languages & Tools: </h3>
