@@ -35,8 +35,9 @@
 [<img align="left" alt="sony vegas" width="26px" src="https://user-images.githubusercontent.com/51645644/129384748-f3c466a8-7baa-4700-bf2b-fd63ef528ece.png" />]
 
 
-<!--  
+
 [linkedin]: https://www.linkedin.com/in/matt-taylor-698250199/
+<!--  
 [python]: https://user-images.githubusercontent.com/51645644/129383585-4a6c8906-e0a6-45ae-a245-ab87b8e50e93.png
 [html5]: https://user-images.githubusercontent.com/51645644/129384273-a3ccd1bd-6523-424c-be79-367dc59bc1ad.png
 [css3]: https://user-images.githubusercontent.com/51645644/129384334-e97b140d-882a-4974-bfae-a453b70bcb62.png
