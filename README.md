@@ -15,4 +15,4 @@
 ## Languages & Tools:
 
   
-[linkedin]: [https://www.linkedin.com/in/matt-taylor-698250199/]
+[linkedin]: https://www.linkedin.com/in/matt-taylor-698250199/
