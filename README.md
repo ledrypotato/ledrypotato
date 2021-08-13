@@ -10,8 +10,8 @@
 Here are some ideas to get you started:
 -->
 <h3> About me: </h3>
-- 🌱 I’m currently learning *cybersecurity*
-- ⚡ Fun fact: i love calisthenics 💪🏻
+  - 🌱 I’m currently learning *cybersecurity*
+  - ⚡ Fun fact: i love calisthenics 💪🏻
 
   <h3> Socials: </h3>
   
