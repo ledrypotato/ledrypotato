@@ -9,7 +9,10 @@
 
 ## Socials: 
 [<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br/>
   
 ## Languages & Tools:
+
   
 [linkedin]: [https://www.linkedin.com/in/matt-taylor-698250199/]
