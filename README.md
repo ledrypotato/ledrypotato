@@ -13,7 +13,7 @@
 <br/>
 
 ## Languages & Tools:
-[<img align="left" alt="UK" width="26px" src="https://user-images.githubusercontent.com/51645644/129385699-f05f0600-e3c7-4a80-a2a9-3ee671132ce8.png" />]
+<img align="left" alt="UK" width="26px" src="https://user-images.githubusercontent.com/51645644/129385699-f05f0600-e3c7-4a80-a2a9-3ee671132ce8.png" />
 [<img align="left" alt="FR" width="26px" src="https://user-images.githubusercontent.com/51645644/129385516-0f365797-1b57-482a-a1cf-60c74da8ec6c.png" />]
 [<img align="left" alt="GER" width="26px" src="https://user-images.githubusercontent.com/51645644/129385195-4341a5de-8446-465e-8662-447097e0ac6a.png" />]
 
