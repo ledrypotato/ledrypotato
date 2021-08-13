@@ -44,10 +44,9 @@
 [c]: https://user-images.githubusercontent.com/51645644/129384527-f62ac311-469f-463b-b1b3-336667b79cf9.png
 [c++]: https://user-images.githubusercontent.com/51645644/129384531-1090831b-8de0-49e3-83d0-70fc62fea2f9.png
 [java]: https://user-images.githubusercontent.com/51645644/129384561-bfad50e9-c4e8-4b34-82dc-823b33eb367f.png
-
 [js]: https://user-images.githubusercontent.com/51645644/129386686-afe0ef21-7c98-48f8-8c77-808b93255153.png
-
 [php]: https://user-images.githubusercontent.com/51645644/129386309-0b3d78b5-fc72-47bb-8c61-bb4413f1cca3.png
+
 [excel]: https://user-images.githubusercontent.com/51645644/129384722-737aafbb-0012-48d7-8647-811e9cfacb0c.png
 [photoshop]: https://user-images.githubusercontent.com/51645644/129384742-d3d71add-e831-4c8d-939c-7ac1b4494764.png
 [Vegas pro]: https://user-images.githubusercontent.com/51645644/129384748-f3c466a8-7baa-4700-bf2b-fd63ef528ece.png
