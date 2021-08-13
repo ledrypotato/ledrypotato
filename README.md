@@ -8,7 +8,7 @@
 - ⚡ Fun fact: i love calisthenics 💪🏻
 
 ## Socials: 
-[<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" </img>] [https://www.linkedin.com/in/matt-taylor-698250199/]
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [https://www.linkedin.com/in/matt-taylor-698250199/]
   
 ## Languages & Tools:
   
