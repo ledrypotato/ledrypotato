@@ -29,3 +29,5 @@
   
 [linkedin]: https://www.linkedin.com/in/matt-taylor-698250199/
 [python]: (https://user-images.githubusercontent.com/51645644/129383585-4a6c8906-e0a6-45ae-a245-ab87b8e50e93.png)
+[html5](https://user-images.githubusercontent.com/51645644/129384273-a3ccd1bd-6523-424c-be79-367dc59bc1ad.png)
+
