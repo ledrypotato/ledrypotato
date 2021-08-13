@@ -32,7 +32,7 @@
 <img align="left" alt="Prolog" width="26px" src="https://user-images.githubusercontent.com/51645644/129387708-5a642d75-e4b8-4638-9f9a-aa0417726483.png" />
 <img align="left" alt="Bash" width="26px" src="https://user-images.githubusercontent.com/51645644/129387710-c188b06e-b386-4375-bac5-835147675bb2.png" />
 
-<br />
+<br/>
 
 <img align="left" alt="excel" width="26px" src="https://user-images.githubusercontent.com/51645644/129384722-737aafbb-0012-48d7-8647-811e9cfacb0c.png" />
 <img align="left" alt="photoshop" width="26px" src="https://user-images.githubusercontent.com/51645644/129384742-d3d71add-e831-4c8d-939c-7ac1b4494764.png" />
