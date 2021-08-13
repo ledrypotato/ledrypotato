@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 -->
-##About me:
+## About me:
 - 🌱 I’m currently learning *cybersecurity*
 - ⚡ Fun fact: i love calisthenics 💪🏻
 
