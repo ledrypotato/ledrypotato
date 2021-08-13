@@ -9,11 +9,12 @@
 
 Here are some ideas to get you started:
 -->
+<h3> About me: </h3>
 - 🌱 I’m currently learning *cybersecurity*
 - ⚡ Fun fact: i love calisthenics 💪🏻
 
-  <h3> Socials </h3>
-  ###test
+  <h3> Socials: </h3>
   
-  <h3> Languages & Tools</h3>
+  
+  <h3> Languages & Tools: </h3>
   
