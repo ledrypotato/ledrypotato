@@ -6,7 +6,7 @@
 ## About me:
 - 🌱 I’m currently learning *cybersecurity* 👨‍🎓
 - ⚡ Fun fact: i love calisthenics 💪🏻
-- 🔐 Have fun: 68747470733a2f2f7777772e796f75747562652e636f6d2f77617463683f763d6451773477395767586351 👀
+- 🔐 Have fun: 68747470733a2f2f7777772e796f75747562652e636f6d2f77617463683f763d6451773477395767586351
 
 ## Socials: 
 [<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
