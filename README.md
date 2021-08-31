@@ -4,7 +4,7 @@
 <h3 align="center"> <a href = https://ledrypotato.github.io> Site </a> - <a href =  cv-english.pdf> CV (English) </a> - <a href = cv-french.pdf> CV (French) </a></h3>
 
 ## About me:
-- 🌱 I’m currently learning *cybersecurity* 👨‍🎓
+- 🌱 I’m currently learning about *cybersecurity* 👨‍🎓
 - ⚡ Fun fact: i love calisthenics 💪🏻
 - 🔐 Have fun: 68747470733a2f2f7777772e796f75747562652e636f6d2f77617463683f763d6451773477395767586351
 
