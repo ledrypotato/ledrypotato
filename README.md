@@ -3,22 +3,22 @@
 <h3 align="center"> Comp. Sci Student at F.S.T Limoges - France 🖥️</h3>
 <h3 align="center"> <a href = https://ledrypotato.github.io> Site </a> - <a href =  cv-english.pdf> CV (English) </a> - <a href = cv-french.pdf> CV (French) </a></h3>
 
-## About me:
+>## About me:
 - 🌱 I’m currently learning about *cybersecurity* 👨‍🎓
 - ⚡ Fun fact: i love calisthenics 💪🏻
 - 🔐 Have fun: 68747470733a2f2f7777772e796f75747562652e636f6d2f77617463683f763d6451773477395767586351
 
-## Socials: 
+>## Socials: 
 [<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br>
+<br>
 
-<br/>
-
-## Languages & Tools:
+>## Languages & Tools:
 <img align="left" alt="UK" width="26px" src="https://user-images.githubusercontent.com/51645644/129385699-f05f0600-e3c7-4a80-a2a9-3ee671132ce8.png" />
 <img align="left" alt="FR" width="26px" src="https://user-images.githubusercontent.com/51645644/129385516-0f365797-1b57-482a-a1cf-60c74da8ec6c.png" />
 <img align="left" alt="GER" width="26px" src="https://user-images.githubusercontent.com/51645644/129385195-4341a5de-8446-465e-8662-447097e0ac6a.png" />
 
-<br/>
+<br>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/51645644/129383585-4a6c8906-e0a6-45ae-a245-ab87b8e50e93.png" />
@@ -33,7 +33,7 @@
 <img align="left" alt="Prolog" width="26px" src="https://user-images.githubusercontent.com/51645644/129387708-5a642d75-e4b8-4638-9f9a-aa0417726483.png" />
 <img align="left" alt="Bash" width="26px" src="https://user-images.githubusercontent.com/51645644/129387710-c188b06e-b386-4375-bac5-835147675bb2.png" />
 
-<br/>
+<br>
 
 <img align="left" alt="excel" width="26px" src="https://user-images.githubusercontent.com/51645644/129384722-737aafbb-0012-48d7-8647-811e9cfacb0c.png" />
 <img align="left" alt="photoshop" width="26px" src="https://user-images.githubusercontent.com/51645644/129384742-d3d71add-e831-4c8d-939c-7ac1b4494764.png" />
