@@ -1,7 +1,6 @@
 <h1 align="center"> Matt TAYLOR - 22</h1>
 <hr>
 <h3 align="center"> Cybersecurity Student (CRYPTIS) at F.S.T Limoges - France 🖥️</h3>
-<h3 align="center"> <a href = https://ledrypotato.github.io>Site</a> </h3>
 
 >## About me:
 - 🌱 I’m currently learning about *cybersecurity* 👨‍🎓
