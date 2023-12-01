@@ -2,9 +2,10 @@
 <hr>
 <h3 align="center">Pentester at AlgoSecure</h3>
 
->## About me:
+## About me:
 - ⚡ Fun fact: i love calisthenics/climbing 💪🏻
 
+<!--
 >## Socials: 
 [<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
