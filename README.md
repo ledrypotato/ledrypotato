@@ -1,11 +1,9 @@
-<h1 align="center"> Matt TAYLOR - 22</h1>
+<h1 align="center">M. TAYLOR</h1>
 <hr>
-<h3 align="center"> Cybersecurity Student (CRYPTIS) at F.S.T Limoges - France 🖥️</h3>
+<h3 align="center">Pentester at AlgoSecure</h3>
 
 >## About me:
-- 🌱 I’m currently learning about *cybersecurity* 👨‍🎓
-- ⚡ Fun fact: i love calisthenics 💪🏻
-- 🔐 Have fun: 68747470733a2f2f7777772e796f75747562652e636f6d2f77617463683f763d6451773477395767586351
+- ⚡ Fun fact: i love calisthenics/climbing 💪🏻
 
 >## Socials: 
 [<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
